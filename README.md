@@ -17,3 +17,4 @@ Se desea que el molino funcione a 100 rpm, usando un motor trifasico de 3 hp a 1
 
 * **Daniel Alvarado Pelaéz** 
 * **Marcelo Mendoza Hidalgo** 
+* **Bryan Cali Loaiza** 
