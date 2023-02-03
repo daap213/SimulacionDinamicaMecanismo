@@ -1,5 +1,7 @@
 # Simulación Dinámica de Mecanismo
+
 ##Descripción del mecanismo:
+
 En un taller se necesita moles y mezclar los pigmentos que se usaran para fabricar pintura. Para ello se usará un molino de bolas el cual se plantea hacer un uso de 8 horas diarias, cuyo mecanismo se planteo de la siguiente forma:
 El eje del molino recibira la potencia y velocidad necesaria por medio de poleas-cadenas, a su ves el eje que le trasmite la potencia a la polea con cadena, recibe la potencia de entrada por medio de un juego de poleas con banda en V, ademas de estar apoyado en 2 rodamientos.
 Se desea que el molino funcione a 100 rpm, usando un motor trifasico de 3 hp a 1800 RPM.
